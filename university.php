@@ -1,0 +1,2 @@
+<?php
+$faculty="Computer";
