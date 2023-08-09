@@ -1,3 +1,2 @@
 <?php
-$faculty = "computer science";
-$master = "Artificial";
+$faculty="Computer";
