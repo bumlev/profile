@@ -1,2 +1,2 @@
 <?php
-$faculty="Computer science";
+$faculty="Computer";
