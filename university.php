@@ -1,0 +1,3 @@
+<?php
+
+$faculty = "computer science";
